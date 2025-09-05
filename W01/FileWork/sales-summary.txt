@@ -1,0 +1,7 @@
+Sales Summary
+----------------------------
+ Total Sales: $2,873.55
+
+ Details:
+  jan.txt: $1,873.55
+  feb.txt: $1,000.00
