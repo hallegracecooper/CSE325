@@ -21,7 +21,6 @@ C:\Users\halle\OneDrive\Documents\Halle BYUI 25\Term 5\CSE325\CSE325\BlazingPizz
 C:\Users\halle\OneDrive\Documents\Halle BYUI 25\Term 5\CSE325\CSE325\BlazingPizzaSite\obj\Debug\net9.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
 C:\Users\halle\OneDrive\Documents\Halle BYUI 25\Term 5\CSE325\CSE325\BlazingPizzaSite\obj\Debug\net9.0\scopedcss\bundle\BlazingPizzaSite.styles.css
 C:\Users\halle\OneDrive\Documents\Halle BYUI 25\Term 5\CSE325\CSE325\BlazingPizzaSite\obj\Debug\net9.0\scopedcss\projectbundle\BlazingPizzaSite.bundle.scp.css
-C:\Users\halle\OneDrive\Documents\Halle BYUI 25\Term 5\CSE325\CSE325\BlazingPizzaSite\obj\Debug\net9.0\compressed\ov4qcges3d-khy4lop6wu.gz
 C:\Users\halle\OneDrive\Documents\Halle BYUI 25\Term 5\CSE325\CSE325\BlazingPizzaSite\obj\Debug\net9.0\compressed\bdb38k9h6p-bqjiyaj88i.gz
 C:\Users\halle\OneDrive\Documents\Halle BYUI 25\Term 5\CSE325\CSE325\BlazingPizzaSite\obj\Debug\net9.0\compressed\y5815u91i9-c2jlpeoesf.gz
 C:\Users\halle\OneDrive\Documents\Halle BYUI 25\Term 5\CSE325\CSE325\BlazingPizzaSite\obj\Debug\net9.0\compressed\7l1v04awon-erw9l3u2r3.gz
@@ -77,3 +76,4 @@ C:\Users\halle\OneDrive\Documents\Halle BYUI 25\Term 5\CSE325\CSE325\BlazingPizz
 C:\Users\halle\OneDrive\Documents\Halle BYUI 25\Term 5\CSE325\CSE325\BlazingPizzaSite\obj\Debug\net9.0\BlazingPizzaSite.pdb
 C:\Users\halle\OneDrive\Documents\Halle BYUI 25\Term 5\CSE325\CSE325\BlazingPizzaSite\obj\Debug\net9.0\BlazingPizzaSite.genruntimeconfig.cache
 C:\Users\halle\OneDrive\Documents\Halle BYUI 25\Term 5\CSE325\CSE325\BlazingPizzaSite\obj\Debug\net9.0\ref\BlazingPizzaSite.dll
+C:\Users\halle\OneDrive\Documents\Halle BYUI 25\Term 5\CSE325\CSE325\BlazingPizzaSite\obj\Debug\net9.0\compressed\ov4qcges3d-eooxl2ujo2.gz
