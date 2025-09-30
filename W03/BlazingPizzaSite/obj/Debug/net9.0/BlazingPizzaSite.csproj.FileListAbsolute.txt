@@ -77,3 +77,13 @@ C:\Users\halle\OneDrive\Documents\Halle BYUI 25\Term 5\CSE325\CSE325\BlazingPizz
 C:\Users\halle\OneDrive\Documents\Halle BYUI 25\Term 5\CSE325\CSE325\BlazingPizzaSite\obj\Debug\net9.0\BlazingPizzaSite.genruntimeconfig.cache
 C:\Users\halle\OneDrive\Documents\Halle BYUI 25\Term 5\CSE325\CSE325\BlazingPizzaSite\obj\Debug\net9.0\ref\BlazingPizzaSite.dll
 C:\Users\halle\OneDrive\Documents\Halle BYUI 25\Term 5\CSE325\CSE325\BlazingPizzaSite\obj\Debug\net9.0\compressed\ov4qcges3d-eooxl2ujo2.gz
+C:\Users\halle\OneDrive\Documents\Halle BYUI 25\Term 5\CSE325\CSE325\W03\BlazingPizzaSite\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\halle\OneDrive\Documents\Halle BYUI 25\Term 5\CSE325\CSE325\W03\BlazingPizzaSite\obj\Debug\net9.0\BlazingPizzaSite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halle\OneDrive\Documents\Halle BYUI 25\Term 5\CSE325\CSE325\W03\BlazingPizzaSite\obj\Debug\net9.0\BlazingPizzaSite.AssemblyInfoInputs.cache
+C:\Users\halle\OneDrive\Documents\Halle BYUI 25\Term 5\CSE325\CSE325\W03\BlazingPizzaSite\obj\Debug\net9.0\BlazingPizzaSite.AssemblyInfo.cs
+C:\Users\halle\OneDrive\Documents\Halle BYUI 25\Term 5\CSE325\CSE325\W03\BlazingPizzaSite\obj\Debug\net9.0\BlazingPizzaSite.csproj.CoreCompileInputs.cache
+C:\Users\halle\OneDrive\Documents\Halle BYUI 25\Term 5\CSE325\CSE325\W03\BlazingPizzaSite\obj\Debug\net9.0\BlazingPizzaSite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\halle\OneDrive\Documents\Halle BYUI 25\Term 5\CSE325\CSE325\W03\BlazingPizzaSite\obj\Debug\net9.0\BlazingPizzaSite.sourcelink.json
+C:\Users\halle\OneDrive\Documents\Halle BYUI 25\Term 5\CSE325\CSE325\W03\BlazingPizzaSite\obj\Debug\net9.0\BlazingPizzaSite.dll
+C:\Users\halle\OneDrive\Documents\Halle BYUI 25\Term 5\CSE325\CSE325\W03\BlazingPizzaSite\obj\Debug\net9.0\refint\BlazingPizzaSite.dll
+C:\Users\halle\OneDrive\Documents\Halle BYUI 25\Term 5\CSE325\CSE325\W03\BlazingPizzaSite\obj\Debug\net9.0\BlazingPizzaSite.pdb
